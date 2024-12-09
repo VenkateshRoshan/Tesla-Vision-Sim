@@ -1,0 +1,10 @@
+numpy>=1.21.0
+opencv-python>=4.5.0
+torch>=1.9.0
+ultralytics  # for YOLOv9
+supervision  # for visualization
+deep-sort-realtime
+bpy  # Blender Python API
+google-cloud-aiplatform
+python-dotenv
+pytest
