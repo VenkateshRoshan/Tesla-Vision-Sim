@@ -23,3 +23,7 @@ Real-time 3D environment simulation system based on vehicle camera feed.
 
 ## License
 [Add your license]
+
+## Architecture
+See [System Architecture](docs/architecture/system_architecture.md) for detailed system design.
+
